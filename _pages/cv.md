@@ -11,26 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* Ph.D in RF Wireless Sensing, University of Glasgow, 2024
+* B.Eng. in EEE, University of Glasgow, 2020
+* B.Eng. in EEE, University of Electronic Science and Technology of China, 2020
+   
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2023: Postdoctoral Researcher
+  * University of Glasgow
+  * Duties includes: Work on EPSRC-funded Communications Hub for Empowering Distributed clouD computing Applications and Research (CHADDER) project, focusing on LLM enabled future communication scheme research.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Prof. Qammer Abbasi and Prof. Muhammad Imran 
   
 Skills
 ======
